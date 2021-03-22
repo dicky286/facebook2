@@ -246,3 +246,20 @@ text-indent: 10px;
 font-size: 18px;
 font-family: 'Lato',sans-serif;
 }
+
+.like
+{  display: flex;
+  justify-content: space-between;
+  padding-left: 3vw;
+}
+.imi-place-button{  
+  height: 50px;
+  width: 100px;
+  cursor: pointer;
+}
+.comenteaza-p{  
+  height: 50px;
+  width: 100px;
+  margin-right: 5vw ;
+  cursor: pointer;
+}
